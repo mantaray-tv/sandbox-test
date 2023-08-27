@@ -1,0 +1,9 @@
+{
+  "name": "sandbox-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:mantaray-tv/sandbox-test.git",
+  "author": "Kento Nishi <kento24gs@outlook.com>",
+  "license": "MIT"
+}
